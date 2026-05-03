@@ -35,7 +35,7 @@
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="www.linkedin.com/in/kaushikram-suriakumar-kuppa-649326281" target="blank">
+  <a href="https://www.linkedin.com/in/kaushikram-suriakumar-kuppa-649326281" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
 </p>
